@@ -1,0 +1,24 @@
+.about {
+  display: flex;
+  flex-direction: column; }
+  .about img {
+    margin: 0 auto;
+    box-shadow: 0 10px 60px 20px rgba(0, 0, 0, 0.1); }
+  .about .btn {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid #00B7FF;
+    border-radius: 20px;
+    color: #00B7FF;
+    background: white;
+    outline: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: bold; }
+    .about .btn:hover {
+      border-color: red;
+      color: red; }
+
+/*# sourceMappingURL=about.css.map */
