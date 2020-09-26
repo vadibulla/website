@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28cfd683-9b09-4fc1-8c23-4704d0be6893" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/db/database" afterDir="false" />
+    <list default="true" id="28cfd683-9b09-4fc1-8c23-4704d0be6893" name="Default Changelist" comment="created db directory">
+      <change afterPath="$PROJECT_DIR$/testing" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="1.0.0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +43,7 @@
       <workItem from="1601140959404" duration="408000" />
       <workItem from="1601141675801" duration="62000" />
       <workItem from="1601141744464" duration="61000" />
-      <workItem from="1601144089352" duration="306000" />
+      <workItem from="1601144089352" duration="981000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1601144291948</created>
@@ -52,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601144291948</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="created db directory">
+      <created>1601144414764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601144414764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,13 +67,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="created db directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="created db directory" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601144380114">
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601144468169">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601144380114" />
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1601144468169" />
     <state x="561" y="262" key="Github.ShareDialog" timestamp="1601144124672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -75,10 +83,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="535" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601144144161" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601144318167">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601144422971">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601144318167" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601144422971" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1601141316868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
