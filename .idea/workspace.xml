@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28cfd683-9b09-4fc1-8c23-4704d0be6893" name="Default Changelist" comment="created db directory">
-      <change afterPath="$PROJECT_DIR$/testing" afterDir="false" />
-    </list>
+    <list default="true" id="28cfd683-9b09-4fc1-8c23-4704d0be6893" name="Default Changelist" comment="привет от Юрца&#10;Андрюха я теперь тестер" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
       <workItem from="1601140959404" duration="408000" />
       <workItem from="1601141675801" duration="62000" />
       <workItem from="1601141744464" duration="61000" />
-      <workItem from="1601144089352" duration="981000" />
+      <workItem from="1601144089352" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1601144291948</created>
@@ -59,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601144414764</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="привет от Юрца">
+      <created>1601145444502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601145444502</updated>
+    </task>
+    <task id="LOCAL-00004" summary="привет от Юрца&#10;Андрюха я теперь тестер">
+      <created>1601145563910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601145563910</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,7 +80,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="created db directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="created db directory" />
+    <MESSAGE value="привет от Юрца" />
+    <MESSAGE value="привет от Юрца&#10;Андрюха я теперь тестер" />
+    <option name="LAST_COMMIT_MESSAGE" value="привет от Юрца&#10;Андрюха я теперь тестер" />
   </component>
   <component name="WindowStateProjectService">
     <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601144468169">
@@ -83,10 +97,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="535" y="62" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601144144161" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601144422971">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601145568097">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601144422971" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601145568097" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1601141316868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
